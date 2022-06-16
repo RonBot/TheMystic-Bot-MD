@@ -4,8 +4,7 @@ import { fileURLToPath } from 'url'
 
 global.owner = [
   ['573023900508', '👑 Kanixxx - Creador 👑', true],
-  ['37122262180', '🤖 Kan - Bot 🤖', true],
-  ['17722386341']
+  ['37122262180', '🤖 Kan - Bot 🤖', true]
 ] // Cambia los numero que quieras
 global.mods = [] 
 global.prems = [] 
@@ -60,11 +59,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = ''
+global.packname = '𝑲𝑨𝑵 - 𝑩𝑶𝑻🌙'
 global.author = 'by kanixxx'
 
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.wm = '𝑲𝑨𝑵 - 𝑩𝑶𝑻🌙'
+global.igfg = '𝑲𝑨𝑵 - 𝑩𝑶𝑻🌙'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.multiplier = 9999 // The higher, The harder levelup

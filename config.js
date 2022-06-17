@@ -59,8 +59,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '𝑲𝑨𝑵 - 𝑩𝑶𝑻🌙'
-global.author = 'by kanixxx'
+global.packname = 'by Kanixxx'
+global.author = '𝑲𝑨𝑵 - 𝑩𝑶𝑻🌙'
 
 global.wm = '𝑲𝑨𝑵 - 𝑩𝑶𝑻🌙'
 global.igfg = '𝑲𝑨𝑵 - 𝑩𝑶𝑻🌙'
